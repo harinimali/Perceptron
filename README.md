@@ -1,2 +1,2 @@
 # Perceptron
-Text classification using perceptron model
+Text classification using perceptron and Average perceptron model
